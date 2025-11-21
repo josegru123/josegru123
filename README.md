@@ -29,8 +29,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josegru123&theme=dark)](https://git.io/streak-stats)
 
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=josegru123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=josegru123&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
 
 
